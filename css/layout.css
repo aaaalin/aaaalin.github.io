@@ -35,14 +35,14 @@
 }
 
 .heart {
-  font-size: 12em;
+  font-size: 20em;
   color: white;
   /*margin: auto;*/
   position: absolute;
   left: 50%;
   top: 50%;
-  margin-top: -80px;
-  margin-left: -80px;
+  margin-top: -150px;
+  margin-left: -150px;
 }
 
 .title {
