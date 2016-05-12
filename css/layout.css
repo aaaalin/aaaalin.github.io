@@ -5,7 +5,7 @@
   -webkit-font-smoothing: antialiased;
 }
 
-body {
+/*body {
   background: url('../img/bg.jpg') no-repeat 100% 70% fixed;
   background-size: cover;
   width: 100%;
@@ -13,6 +13,22 @@ body {
   position: absolute;
   margin: 0;
   overflow: hidden;
+}*/
+
+.color_1 {
+  background-color: #A9E583;
+}
+.color_2 {
+  background-color: #E58883;
+}
+.color_3 {
+  background-color: #A9E583;
+}
+.color_4 {
+  background-color: #83E5C8;
+}
+.color_5 {
+  background-color: #E5DF83;
 }
 
 .box {
@@ -30,7 +46,7 @@ h1 {
   text-align: left;
   padding-left: 1em;
   padding-right: 1em;
-  font-size: 3em;
+  font-size: 2.5em;
   font-family: 'Open Sans', sans-serif;
   /*font: bold  sans-serif;*/
 }
