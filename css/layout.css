@@ -33,7 +33,7 @@
 
 .heart {
   font-size: 10em;
-  margin: auto;
+  /*margin: auto;*/
   position: absolute;
   left: 50%;
   top: 50%;
