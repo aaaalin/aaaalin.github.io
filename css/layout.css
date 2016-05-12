@@ -30,6 +30,9 @@
 .color_5 {
   background-color: #E5DF83;
 }
+.color_6 {
+  background-color: #E5B683;
+}
 
 .heart {
   font-size: 12em;
@@ -38,8 +41,8 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  margin-top: -6em;
-  margin-left: -6em;
+  margin-top: -100px;
+  margin-left: -100px;
 }
 
 .box {
