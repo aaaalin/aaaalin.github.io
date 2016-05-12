@@ -41,8 +41,17 @@
   position: absolute;
   left: 50%;
   top: 50%;
-  margin-top: -100px;
-  margin-left: -100px;
+  margin-top: -80px;
+  margin-left: -80px;
+}
+
+.title {
+  color: white;
+  text-align: left;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-size: 3.5em;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .box {
