@@ -32,13 +32,13 @@
 }
 
 .heart {
-  font-size: 8em;
+  font-size: 10em;
   margin: auto;
   position: absolute;
   left: 50%;
   top: 50%;
-  margin-top: -45px;
-  margin-left: -45px;
+  margin-top: -10px;
+  margin-left: -10px;
 }
 
 .box {
