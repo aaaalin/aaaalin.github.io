@@ -32,8 +32,9 @@
 }
 
 .heart {
-  font-size: 5em;
-  text-align: center;
+  font-size: 8em;
+  weight: 100px;
+  margin: auto;
   position: absolute;
   top: 50%;
   margin-top: -45px;
